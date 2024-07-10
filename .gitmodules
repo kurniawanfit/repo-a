@@ -1,0 +1,3 @@
+[submodule "repo-b"]
+	path = repo-b
+	url = git@github.com:kurniawanfit/repo-b.git
